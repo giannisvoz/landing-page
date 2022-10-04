@@ -159,6 +159,44 @@ blockquote {
   justify-content: end;
 }
 
-cite {
+.author p {
   font-style: normal;
+}
+
+/* Signup */
+
+.fourth-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.signup-box {
+  display: flex;
+  width: 60vw;
+  margin: auto;
+  background-color: #3882F6;
+  color:#E5E7EB;
+  padding: 40px 80px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 7px;
+}
+
+h3 {
+  margin-bottom: 4px;
+}
+
+.signup-box button {
+  border: 1px solid #E5E7EB;
+  height: 30px;
+}
+
+/* Footer */
+
+footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  font-size: 18px;
+  text-align: center;
+  padding: 40px;
 }
