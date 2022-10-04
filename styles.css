@@ -5,6 +5,10 @@
   font-family: 'Roboto', sans-serif;
 }
 
+button {
+  cursor: pointer;
+}
+
 /* Hero Section */
 
 main {
