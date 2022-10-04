@@ -17,14 +17,14 @@ section {
 .hero-section {
   width: 60vw;
   margin: 0 auto;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 
 .nav-bar {
   display: flex;
   width: 100%;
-  margin-top: 40px;
-  margin-bottom: 60px;
+  margin-top: 20px;
+  margin-bottom: 45px;
 }
 
 a {
@@ -61,7 +61,7 @@ article {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-right: 140px;
+  margin-right: 120px;
 }
 
 h1 {
@@ -87,6 +87,6 @@ button {
 }
 
 img {
-  width: 380px;
+  width: 410px;
   border-radius: 4px;
 }
